@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@300&display=swap');
+
+*{
+  font-family: 'Sunflower';
+}
+
+.main-title {
+  
+  background-color: #F5F5F5;
+  text-align: left;
+  margin: 0px;
+  padding-left: 10px;
+  height: 600px;
+}
+
+.myname{
+
+  margin: 0px;
+  padding-top: 80px;
+  padding-left: 10px;
+  font-size: 100px;
+}
+
+.profile{
+
+  margin: 0px;
+  padding-left: 10px;
+}
+
+.ramen{
+
+  background-color: #DCDCDC;
+  height: 600px;
+  overflow: hidden;
+}
+
+.ramen-title{
+
+  margin: 0px;
+  padding: 20px;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.ramen-text{
+
+  padding-left: 10px;
+  width: 400px;
+  height: 100px;
+  font-size: large;
+  float: right;
+}
+.ramenpic{
+  padding-left: 100px;
+  padding-top:10px;
+}
+.ski{
+
+  background-color: #D3D3D3;
+  height: 600px;
+  overflow: hidden;
+}
+
+.ski-title{
+  margin: 0px;
+  padding: 20px;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.ski-text{
+  padding-left: 10px;
+  width: 450px;
+  height: 100px;
+  font-size: large;
+  float: right;
+  
+}
+.skipic{
+  padding-left: 100px;
+  padding-top:10px;
+}
+.project{
+
+  background-color: #778899;
+  height: 600px;
+  overflow: hidden;
+}
+
+.project-title{
+
+  margin: 0px;
+  padding: 20px;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.project-text{
+
+  padding-left: 10px;
+  width: 600px;
+  height: 500px;
+  font-size: large;
+  float: right;
+}
+.project-pic{
+  padding-left: 10px;
+  padding-top:10px;
+}
